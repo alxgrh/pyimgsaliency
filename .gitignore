@@ -70,3 +70,7 @@ target/
 
 # dotenv
 .env
+
+# IDE project file
+.project
+.pydevproject
