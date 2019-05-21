@@ -8,4 +8,9 @@ setup(name='pyimgsaliency',
       author_email='none',
       license='Apache',
       packages=find_packages(),
+      install_requires=['networkx', 
+                        'scipy', 
+                        'scikit-image',
+                        'scikit-learn'
+                        ],
       zip_safe=False)
