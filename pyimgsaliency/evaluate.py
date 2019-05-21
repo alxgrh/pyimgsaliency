@@ -2,7 +2,6 @@ import os
 import pdb
 import pyimgsaliency
 import cv2
-import pdb
 import numpy as np
 import sklearn.metrics
 from matplotlib import pyplot as plt
